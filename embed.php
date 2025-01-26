@@ -1,5 +1,5 @@
 <?php
-$embed = $_GET['m'];
+$embed = $_GET['embed'];
 
 
 ?>
